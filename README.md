@@ -1,4 +1,4 @@
-:flying_saucer:	 # UFOs :flying_saucer:	
+# UFOs :flying_saucer: :flying_saucer: :flying_saucer:	
 
 ## Purpose
 
@@ -31,5 +31,5 @@ Using of dynamic tables provides a user-friendly option to filter and update dat
 :-1: The major drawback is that there is **no validation** on any of the input fields which allows the possibility for any data to be entered, with the resulting table showing no data if unless the data absolutely matches one of the entries in respective column.
 
 ### Recommendations for future
-:arrow_up:	Convert some of the input fields to drop-down menus so that the user can select the data instead of having to type the text in manually. This reduces the chances of errors
-:arrow_up:	Clean the data in certain columns like the "Duration" which hold data in differing units like 10:00, a few minutes, 2-3 minutes, noticed from dusk to dawn etc. The result should be some standardized duration data for all the rows
+* :arrow_up:	Convert some of the input fields to drop-down menus so that the user can select the data instead of having to type the text in manually. This reduces the chances of errors
+* :arrow_up:	Clean the data in certain columns like the "Duration" which hold data in differing units like 10:00, a few minutes, 2-3 minutes, noticed from dusk to dawn etc. The result should be some standardized duration data for all the rows
