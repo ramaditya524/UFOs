@@ -8,11 +8,11 @@ We have built a webpage with a dynamic table(information filters and table updat
 
 The webpage has a clean layout and presents the reader with Dana's article to start off and once they scroll down, the user can view the table with UFO sighting data, and towards the left of the table, input fields to filter the table.
 
-![webpage_image](static/images/webpage1.PNG)
+![webpage_image](static/images/webpage1.png)
 
-![webpage_image](static/images/webpage2.PNG)
+![webpage_image](static/images/webpage2.png)
 
-![webpage_image](static/images/webpage3.PNG)
+![webpage_image](static/images/webpage3.png)
 
 ## Summary
 
