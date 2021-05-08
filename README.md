@@ -10,7 +10,7 @@ The webpage has a clean layout and presents the reader with Dana's article to st
 
 The image below shows the location of the table where reader can input values to filter the data and update table accordingly.
 
-![webpage_image]("static/images/webpage1.png" width="50")
+![webpage_image](static/images/webpage1.png)
 
 Once the reader inputs the text, the respective field is filtered to match results and update the table. The image below shows updated table where the city has been filtered to match values with city name "el cajon"
 
